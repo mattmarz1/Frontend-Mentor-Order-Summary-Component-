@@ -85,7 +85,7 @@ body {
     text-underline-offset: 1px;
     color:  hsl(245, 75%, 52%);
     cursor: pointer;
-    transition: 100ms ease;
+    transition: 250ms ease;
 }
 
 .annual-plan > span:last-child:hover {
@@ -115,7 +115,7 @@ body {
     border: none;
     cursor: pointer;
     box-shadow: 0 0.938rem 1.25rem 0 hsla(245, 75%, 52%, .25);
-    transition: 100ms ease;
+    transition: 250ms ease;
     
 }
 
@@ -135,7 +135,7 @@ body {
     margin-top: 1.25rem;
     cursor: pointer;
     display: block;
-    transition: 100ms ease;
+    transition: 250ms ease;
 }
 
 #main-content button:last-of-type:hover {
