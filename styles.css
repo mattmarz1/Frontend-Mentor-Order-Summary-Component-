@@ -42,6 +42,7 @@ body {
 
 #main-content h1 {
     font-weight: 900;
+    font-size: 1.7rem;
     color: hsl(223, 47%, 23%);
 }
 
@@ -75,11 +76,11 @@ body {
 }
 
 .annual-plan div span:first-child {
-    font-weight: 900;
+    font-weight: 800;
 }
 
 .annual-plan > span:last-child {
-    font-weight: 700;
+    font-weight: 600;
     text-decoration: underline;
     text-underline-offset: 1px;
     color:  hsl(245, 75%, 52%);
@@ -94,6 +95,7 @@ body {
 
 .annual-plan div span:last-child {
     margin-top: 0.313rem;
+    color: hsl(224, 23%, 55%);
 }
 
 #main-content button {
